@@ -2,6 +2,8 @@
 
 Java application to visualize how phased array antennas work.
 
+![PAA-SimTool](https://user-images.githubusercontent.com/30117490/45367154-e4291700-b5e0-11e8-9e89-e89fa7abd73b.png "PAA-SimTool")
+
 ## Features
 
 Features include but are not limited to:
