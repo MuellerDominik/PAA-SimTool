@@ -1,0 +1,5 @@
+# Java bytecode
+*.class
+
+# Log files
+*.log
